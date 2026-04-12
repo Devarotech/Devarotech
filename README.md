@@ -16,10 +16,10 @@
 └─$ whoami
 ```
 
-> **Najeem Omokunmi Atanda** — also known by the brand **Arojinle**
+> **Najeem Omokunmi Atanda** — also known by the brand **Devarotech**
 
 - 🏢 **Founder** of [Devarotech](https://github.com/devarotech) | IT Specialist & Cybersecurity Professional
-- 🎓 **Computer Engineering** graduate — Federal Polytechnic Offa, Nigeria
+- 🎓 **Computer Engineering** Graduated with Distiction — Federal Polytechnic Offa, Nigeria
 - 🌍 Based in **Abuja, Nigeria**
 - 🔐 Passionate about **Ethical Hacking**, **Penetration Testing**, and **Offensive Security**
 - 📜 Currently working toward: **eJPT → CompTIA PenTest+ → CEH → OSCP**
