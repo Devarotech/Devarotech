@@ -16,10 +16,10 @@
 └─$ whoami
 ```
 
-> **Najeem Omokunmi Atanda** — also known by the brand **Devarotech**
+> **Najeem Omokunmi Atanda** — also known by the brand **Arojinle**
 
 - 🏢 **Founder** of [Devarotech](https://github.com/devarotech) | IT Specialist & Cybersecurity Professional
-- 🎓 **Computer Engineering** Graduated with Distiction — Federal Polytechnic Offa, Nigeria
+- 🎓 **Computer Engineering** graduate — Federal Polytechnic Offa, Nigeria
 - 🌍 Based in **Abuja, Nigeria**
 - 🔐 Passionate about **Ethical Hacking**, **Penetration Testing**, and **Offensive Security**
 - 📜 Currently working toward: **eJPT → CompTIA PenTest+ → CEH → OSCP**
@@ -110,9 +110,7 @@
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/devarotech.png)](https://tryhackme.com/p/devarotech)
-
-> *Replace `devarotech` above with your exact TryHackMe username to activate this badge.*
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/omokunmi2017.png)](https://tryhackme.com/p/omokunmi2017)
 
 </div>
 
