@@ -16,10 +16,10 @@
 └─$ whoami
 ```
 
-> **Najeem Omokunmi Atanda** — also known by the brand **Arojinle**
+> **Najeem Omokunmi Atanda** — also known by the brand **Devarotech**
 
 - 🏢 **Founder** of [Devarotech](https://github.com/devarotech) | IT Specialist & Cybersecurity Professional
-- 🎓 **Computer Engineering** graduate — Federal Polytechnic Offa, Nigeria
+- 🎓 **Computer Engineering** Graduated with Distinction — Federal Polytechnic Offa, Nigeria
 - 🌍 Based in **Abuja, Nigeria**
 - 🔐 Passionate about **Ethical Hacking**, **Penetration Testing**, and **Offensive Security**
 - 📜 Currently working toward: **eJPT → CompTIA PenTest+ → CEH → OSCP**
@@ -92,9 +92,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devarotech&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Devarotech&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devarotech&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Devarotech&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
 
 </div>
 
